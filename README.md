@@ -1,5 +1,5 @@
 <h1 align="center">👋 Привет, я Андрей Шулянский</h1>
-<h3 align="center">Python-разработчик | Решаю задачи любой сложности</h3>
+<h3 align="center">Python-разработчик | Автоматизация и работа с данными</h3>
 
 ---
 
@@ -8,6 +8,8 @@
 - 💻 Фрилансер с опытом коммерческой разработки
 - 🐍 Пишу на **Python 3.12+** более 1 года
 - 🔧 Работаю с Telegram API, парсингом, автоматизацией, API-интеграциями
+- 🗄️ Проектирую и работаю с базами данных (**SQLite, PostgreSQL**)
+- 📊 Обрабатываю и анализирую данные (Pandas, CSV, Excel)
 - 📚 Постоянно развиваюсь и изучаю новые инструменты
 - 🎯 Цель — помогать бизнесу автоматизировать процессы
 
@@ -19,6 +21,12 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Telegram_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -37,8 +45,8 @@
 
 ### 📫 Как связаться
 
-- 📱 **Telegram: @shulanskij
-- 💼 **Kwork: https://kwork.ru/user/freizenlost
+- 📱 **Telegram:** [@shulanskij](https://t.me/shulanskij)
+- 💼 **Kwork:** [https://kwork.ru/user/freizenlost](https://kwork.ru/user/freizenlost)
 
 ---
 
