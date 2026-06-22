@@ -37,8 +37,8 @@
 
 ### 📫 Как связаться
 
-- 📱 **Telegram:** [@shul_ad_bot](https://t.me/shul_ad_bot) *(укажите свой личный Telegram)*
-- 💼 **Kwork:** (добавьте ссылку, когда создадите профиль)
+- 📱 **Telegram: @shulanskij
+- 💼 **Kwork: https://kwork.ru/user/freizenlost
 
 ---
 
