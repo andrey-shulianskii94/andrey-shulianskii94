@@ -13,10 +13,10 @@
     <img src="https://img.shields.io/badge/ВКонтакте-4680C2?style=for-the-badge&logo=vk&logoColor=white"/>
   </a>
   <a href="tel:+79241216337">
-    <img src="https://img.shields.io/badge/MAX_Мессенджер-FF6C37?style=for-the-badge&logo=message&logoColor=white"/>
+    <img src="images/784de614b2303d23660b4db5a63f6a0.jpg" width="36" height="36" alt="MAX" style="border-radius:8px;"/>
   </a>
   <a href="https://kwork.ru/user/freizenlost">
-    <img src="https://img.shields.io/badge/Kwork-FF6C37?style=for-the-badge&logo=kwork&logoColor=white"/>
+    <img src="images/1_e2nuzwzmfmeta70xhaxzqa-900x900.png" width="36" height="36" alt="Kwork" style="border-radius:8px;"/>
   </a>
 </p>
 
