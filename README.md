@@ -5,8 +5,6 @@
   <img src="https://img.shields.io/badge/⚡_Доступен_для_заказов-Свяжитесь_со_мной-00C853?style=for-the-badge&logo=telegram&logoColor=white"/>
 </p>
 
-### 📫 Как связаться
-
 <p align="center">
   <a href="https://t.me/shulanskij">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
