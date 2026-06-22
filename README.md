@@ -1,6 +1,10 @@
 <h1 align="center">👋 Привет, я Андрей Шулянский</h1>
 <h3 align="center">Python-разработчик | Автоматизация и работа с данными</h3>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/⚡_Доступен_для_заказов-Свяжитесь_со_мной-00C853?style=for-the-badge&logo=telegram&logoColor=white"/>
+</p>
+
 ---
 
 ### 🚀 О себе
@@ -45,8 +49,14 @@
 
 ### 📫 Как связаться
 
-- 📱 **Telegram:** [@shulanskij](https://t.me/shulanskij)
-- 💼 **Kwork:** [https://kwork.ru/user/freizenlost](https://kwork.ru/user/freizenlost)
+<p align="left">
+  <a href="https://t.me/shulanskij">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://kwork.ru/user/freizenlost">
+    <img src="https://img.shields.io/badge/Kwork-FF6C37?style=for-the-badge&logo=kwork&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -55,6 +65,18 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=andrey-shulianskii94&show_icons=true&hide_title=true&count_private=true&theme=default" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrey-shulianskii94&layout=compact&theme=default" width="345"/>
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=andrey-shulianskii94&label=Просмотров+профиля&color=blueviolet&style=flat-square"/>
+</p>
+
+---
+
+### 🏆 Достижения
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=andrey-shulianskii94&theme=default&row=1&column=6&margin-w=10"/>
 </p>
 
 ---
