@@ -68,7 +68,7 @@
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=andrey-shulianskii94&label=Просмотров+профиля&color=blueviolet&style=flat-square"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=andrey-shulianskii94.andrey-shulianskii94" />
 </p>
 
 ---
